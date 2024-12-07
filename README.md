@@ -118,10 +118,10 @@ index.php
 ## **Integrantes del Proyecto**  
 - **José Fernando Sierra Márquez**.          
     (V.- 31.149.881)  
-- **Peña Bustillos Frank Alejandro**
+- **Peña Bustillos Frank Alejandro**.
       (V.- 31.437.316)  
 - **Andrés Rivero** (V.- 29.939.663)  
-- **Jesús Eduardo García Medina**
+- **Jesús Eduardo García Medina**.
       (V.- 31.196.536)  
 
 --- 
