@@ -121,11 +121,14 @@ index.php
   
 - **Peña Bustillos Frank Alejandro**.
 
-(V.- 31.437.316)  
+    (V.- 31.437.316)  
 
-- **Andrés Rivero** (V.- 29.939.663)
+- **Andrés Rivero** 
+
+    (V.- 29.939.663)
   
 - **Jesús Eduardo García Medina**.
+
     (V.- 31.196.536)  
 
 --- 
