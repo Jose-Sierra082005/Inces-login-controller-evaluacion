@@ -1,7 +1,8 @@
 
 
 ## **Integrantes del Proyecto**  
-- **José Fernando Sierra Márquez**.          
+- **José Fernando Sierra Márquez**.
+          
     (CI: 31.149.881)
   
 - **Peña Bustillos Frank Alejandro**.
@@ -133,23 +134,5 @@ index.php
 - **Commits**: Mensajes claros y concisos describen cada cambio realizado.  
 - **Pull Requests**: Se usan para fusionar nuevas funcionalidades en la rama principal.  
 
----
 
-## **Integrantes del Proyecto**  
-- **José Fernando Sierra Márquez**.          
-    (CI: 31.149.881)
-  
-- **Peña Bustillos Frank Alejandro**.
-
-    (CI: 31.437.316)  
-
-- **Andrés Rivero** 
-
-    (CI: 29.939.663)
-  
-- **Jesús Eduardo García Medina**.
-
-    (CI: 31.196.536)  
-
---- 
 
