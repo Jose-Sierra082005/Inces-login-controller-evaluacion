@@ -24,7 +24,7 @@ El sistema está diseñado para gestionar la inscripción de participantes a los
 
 ---
 
-## **Requisitos del loginController de sistema**  
+## **Requisitos del loginController del Sistema**  
 El controlador de login fue desarrollado con los siguientes criterios:  
 1. **Autenticación segura**: Los usuarios pueden autenticarse correctamente utilizando un nombre de usuario y contraseña.  
 2. **Seguridad de contraseñas**: Las contraseñas son encriptadas con el algoritmo `bcrypt`.  
