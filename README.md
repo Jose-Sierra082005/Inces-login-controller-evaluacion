@@ -1,3 +1,23 @@
+---
+
+## **Integrantes del Proyecto**  
+- **José Fernando Sierra Márquez**.          
+    (CI: 31.149.881)
+  
+- **Peña Bustillos Frank Alejandro**.
+
+    (CI: 31.437.316)  
+
+- **Andrés Rivero** 
+
+    (CI: 29.939.663)
+  
+- **Jesús Eduardo García Medina**.
+
+    (CI: 31.196.536)  
+
+--- 
+
 # Sistema de Gestión de Inscripción de Participantes - INCES
 
 ## **Objetivo del Sistema**  
@@ -117,19 +137,19 @@ index.php
 
 ## **Integrantes del Proyecto**  
 - **José Fernando Sierra Márquez**.          
-    (V.- 31.149.881)
+    (CI: 31.149.881)
   
 - **Peña Bustillos Frank Alejandro**.
 
-    (V.- 31.437.316)  
+    (CI: 31.437.316)  
 
 - **Andrés Rivero** 
 
-    (V.- 29.939.663)
+    (CI: 29.939.663)
   
 - **Jesús Eduardo García Medina**.
 
-    (V.- 31.196.536)  
+    (CI: 31.196.536)  
 
 --- 
 
