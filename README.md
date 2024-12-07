@@ -1,4 +1,4 @@
----
+
 
 ## **Integrantes del Proyecto**  
 - **José Fernando Sierra Márquez**.          
@@ -16,7 +16,7 @@
 
     (CI: 31.196.536)  
 
---- 
+ 
 
 # Sistema de Gestión de Inscripción de Participantes - INCES
 
