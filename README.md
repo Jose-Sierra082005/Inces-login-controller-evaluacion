@@ -119,7 +119,9 @@ index.php
 - **José Fernando Sierra Márquez**.          
     (V.- 31.149.881)
   
-- **Peña Bustillos Frank Alejandro**.(V.- 31.437.316)  
+- **Peña Bustillos Frank Alejandro**.
+
+(V.- 31.437.316)  
 
 - **Andrés Rivero** (V.- 29.939.663)
   
